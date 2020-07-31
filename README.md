@@ -6,7 +6,20 @@
 
 ### Introduction
 
-This application provides you with a pre-installed Vue.js, Tailwind and Laravel Mix PurgeCSS.
+This application provides you with a pre-installed and configured Vue.js, Tailwind and Laravel Mix PurgeCSS.
+
+### Installing
+
+To install this, you need to run the following:
+
+```shell
+composer install
+npm install
+npm run dev
+```
+If you want to see the `Purged` files run
+
+```shell npm run production ```
 
 ### License
 
