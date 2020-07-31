@@ -19,7 +19,9 @@ npm run dev
 ```
 If you want to see the `Purged` files run
 
-```shell npm run production ```
+```shell
+npm run production
+```
 
 ### License
 
