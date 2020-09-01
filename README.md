@@ -1,8 +1,8 @@
 ## Laravel 7 with Vue.js and TailwindCSS + PurgeCSS
 
-![Crafted by](http://img.shields.io/badge/Crafted%20by%20-Daryl-brightgreen?style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/whoami15/Laravel-7-Vue.js-TailwindCSS.svg?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/whoami15/Laravel-7-Vue.js-TailwindCSS.svg?style=for-the-badge)
+![Crafted by](http://img.shields.io/badge/Crafted%20by%20-Daryl-brightgreen?style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors/whoami15/Laravel-7-Vue.js-TailwindCSS-PurgeCSS.svg?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/whoami15/Laravel-7-Vue.js-TailwindCSS-PurgeCSS.svg?style=flat-square)
 
 ### Introduction
 
