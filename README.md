@@ -17,7 +17,7 @@ composer install
 npm install
 npm run dev
 ```
-If you want to see the `Purged` files run
+If you want to see the `Purged` files
 
 ```shell
 npm run production
